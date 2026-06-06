@@ -1,0 +1,21 @@
+Date,Product,Quantity,Returned,Sales Amount,Customer Name
+2025-04-01,Notebook,96,0,1344,Alice Brown
+2025-04-02,Notebook,89,3,1548,Charlie Davis
+2025-04-03,Desk Organizer,123,1,2440,Bob Smith
+2025-04-04,Wireless Mouse,51,3,1152,Fiona Lee
+2025-04-05,USB Cable,131,7,1364,Bob Smith
+2025-04-06,Desk Organizer,181,12,2535,Fiona Lee
+2025-04-07,Stapler,22,1,126,Fiona Lee
+2025-04-08,Pen,30,1,580,Alice Brown
+2025-04-09,Stapler,110,7,2163,George Martin
+2025-04-10,Printer Paper,58,1,399,Diana Green
+2025-04-11,Mouse Pad,171,3,2184,Alice Brown
+2025-04-12,Highlighter,139,2,3425,George Martin
+2025-04-13,Desk Organizer,42,4,380,George Martin
+2025-04-14,Desk Organizer,120,9,666,Bob Smith
+2025-04-15,Wireless Mouse,159,7,2280,Fiona Lee
+2025-04-16,Pen,200,13,3927,George Martin
+2025-04-17,Highlighter,107,1,2226,Bob Smith
+2025-04-18,Laptop Stand,173,14,2226,Hannah Scott
+2025-04-19,Wireless Mouse,52,4,960,Diana Green
+2025-04-20,Highlighter,100,8,1012,Diana Green
